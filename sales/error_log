@@ -1,0 +1,398 @@
+[24-Jul-2023 22:35:16 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[24-Jul-2023 22:35:16 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[24-Jul-2023 22:35:16 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[24-Jul-2023 22:35:16 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:40:30 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[24-Jul-2023 22:40:30 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[24-Jul-2023 22:40:30 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[24-Jul-2023 22:40:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:40:58 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[24-Jul-2023 22:40:58 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[24-Jul-2023 22:40:58 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[24-Jul-2023 22:40:58 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:41:41 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[24-Jul-2023 22:41:41 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[24-Jul-2023 22:41:41 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[24-Jul-2023 22:41:41 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:43:55 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:44:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[24-Jul-2023 22:44:52 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[24-Jul-2023 22:44:53 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[24-Jul-2023 22:44:53 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:45:04 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:48:52 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[24-Jul-2023 22:48:52 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:48:55 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:48:57 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:50:02 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:50:09 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:50:19 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[24-Jul-2023 22:50:19 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:50:25 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[24-Jul-2023 22:50:53 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:07:29 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 20:07:29 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[26-Jul-2023 20:07:29 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[26-Jul-2023 20:07:29 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:07:56 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 20:07:56 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[26-Jul-2023 20:07:56 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[26-Jul-2023 20:07:56 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:08:05 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 20:08:05 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[26-Jul-2023 20:08:05 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[26-Jul-2023 20:08:05 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:08:08 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 20:08:08 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 165
+[26-Jul-2023 20:08:08 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 168
+[26-Jul-2023 20:08:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:08:38 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:46:24 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:46:32 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:46:43 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:48:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:48:19 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:48:25 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:48:28 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:48:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 20:48:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 20:48:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 20:48:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 20:48:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 20:48:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 20:48:39 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 20:48:39 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 20:48:39 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 20:48:39 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:48:51 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 20:51:13 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 20:51:13 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 20:51:13 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:51:22 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:51:30 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 20:51:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:53:32 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 20:53:36 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 20:53:36 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 20:53:36 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:53:46 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 20:56:30 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 20:56:30 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 83
+[26-Jul-2023 20:56:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 251
+[26-Jul-2023 20:56:41 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 251
+[26-Jul-2023 20:56:48 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 251
+[26-Jul-2023 20:59:33 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 20:59:47 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 20:59:47 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 20:59:47 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:00:58 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:01:01 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 21:01:01 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:01:04 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:01:06 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 21:01:06 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:01:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:02:44 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:02:44 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:02:48 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:02:50 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:02:53 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:05:50 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:05:50 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:06:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:06:57 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:07:09 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:07:18 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:12:09 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:12:09 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:12:17 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:13:13 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 21:13:13 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:13:17 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:13:19 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 21:13:19 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:13:21 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:14:34 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:14:34 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 21:14:34 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:14:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:14:42 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 82
+[26-Jul-2023 21:14:42 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:14:45 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:15:23 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:17:16 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:17:19 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:17:19 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:17:27 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:19:10 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:20:56 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:21:01 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:21:05 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:21:49 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:21:52 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:22:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:22:11 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:22:22 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:22:25 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:32:07 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:32:13 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:32:16 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:32:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:03 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:07 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:07 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:09 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:36:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:39:35 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:39:42 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 21:42:09 UTC] PHP Warning:  Undefined variable $sql1 in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 186
+[26-Jul-2023 21:42:09 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php:186
+Stack trace:
+#0 /home/selectdi/dashboard.selectdigitizing.com/sales/index.php(186): mysqli_query(Object(mysqli), '')
+#1 {main}
+  thrown in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 186
+[26-Jul-2023 21:42:36 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:44:11 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:12 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:13 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:13 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:14 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:17 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:20 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:23 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:44:25 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:47:53 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:47:59 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:48:04 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:48:07 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:48:10 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:49:27 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:49:27 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:49:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:49:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:49:42 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:49:46 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:49:49 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:52:03 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:52:03 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:53:12 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:53:16 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:53:21 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:53:41 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:53:46 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:55:07 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:55:07 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:55:11 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:56:42 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:00 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 21:58:10 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 21:58:10 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:19 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:23 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:26 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:29 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:31 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:43 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:58:55 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 21:59:00 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:00:55 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:00 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:03 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:04 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:05 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:33 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:34 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:03:35 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:04:39 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:06:12 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:06:15 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 252
+[26-Jul-2023 22:07:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 22:07:39 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 253
+[26-Jul-2023 22:09:33 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 22:09:36 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 22:09:36 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 22:09:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 22:09:38 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 250
+[26-Jul-2023 22:11:36 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 262
+[26-Jul-2023 22:11:38 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 262
+[26-Jul-2023 22:11:42 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 262
+[26-Jul-2023 22:12:23 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 255
+[26-Jul-2023 22:12:26 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 255
+[26-Jul-2023 22:13:08 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 255
+[26-Jul-2023 22:13:15 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 255
+[26-Jul-2023 22:13:48 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:14:50 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:14:55 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:14:58 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:18:24 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:18:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:19:38 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:19:42 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:19:45 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:25:22 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 1998
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2024
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2040
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2060
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2077
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_fonts.php on line 2093
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 1139
+[26-Jul-2023 22:26:02 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /home/selectdi/dashboard.selectdigitizing.com/tcpdf/include/tcpdf_static.php on line 2488
+[26-Jul-2023 22:26:02 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:26:10 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:26:52 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:26:57 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:29:33 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 22:29:33 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:29:34 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 22:29:34 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:29:35 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 22:29:35 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:29:35 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 22:29:35 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:31:02 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 22:31:02 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[26-Jul-2023 22:31:35 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[26-Jul-2023 22:31:35 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[29-Jul-2023 11:28:29 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[29-Jul-2023 11:28:29 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[29-Jul-2023 11:29:10 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[29-Jul-2023 11:29:10 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[29-Jul-2023 11:29:37 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[29-Jul-2023 11:29:37 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:04:23 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[07-Aug-2023 19:04:23 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:06:29 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[07-Aug-2023 19:06:29 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:06:56 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[07-Aug-2023 19:06:56 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:06:58 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[07-Aug-2023 19:06:58 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:08:49 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:09:01 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:14:49 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:14:55 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:15:19 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:15:22 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:16:03 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:17:30 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:17:33 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:17:36 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:17:41 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:19:01 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:19:38 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:19:39 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 19:23:23 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[07-Aug-2023 21:15:02 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/pending_orders.php on line 83
+[07-Aug-2023 21:15:02 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/pending_orders.php on line 85
+[19-Aug-2023 20:59:03 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[19-Aug-2023 20:59:03 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 20:59:58 UTC] PHP Warning:  Undefined array key "salesuser" in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 162
+[19-Aug-2023 20:59:58 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:03:16 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:05:00 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:28:07 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:28:25 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:28:53 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:29:47 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
+[19-Aug-2023 21:29:53 UTC] PHP Warning:  Undefined variable $user in /home/selectdi/dashboard.selectdigitizing.com/sales/index.php on line 256
